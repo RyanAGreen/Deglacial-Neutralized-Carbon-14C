@@ -1,0 +1,52 @@
+Sample               Taxa                Depth   14Cage  14Cage  Cal.Age Cal.Age   D14C   d13C  Accession#  Son?    Reference
+   
+MC19-10 cm           mixed benthics        0.1    1.72    0.03    0.32     0.1    -161   -0.61   OS-33198    no             1
+MC19-25 cm           mixed benthics       0.25    2.05   0.035    0.81     0.2    -146   -0.69   OS-33199    no             1
+GC31-3-2 cm          mixed benthics       0.27    2.05    0.03    0.87     0.3    -139   -0.86   OS-33201    no             1
+MC19-40 cm           mixed benthics        0.4    2.32   0.035    1.29     0.4    -124   -0.56   OS-33200    no             1
+GC31-3-22.5 cm       mixed benthics      0.475    2.23   0.035    1.54     0.4     -88   -0.91   OS-25612    no             1
+GC31-3-50.5 cm       Bolivina spp.       0.755    3.03    0.04    2.44     0.4     -78         OS-22946    no             1
+GC31-3-70 cm         mixed benthics       0.95    3.69   0.045    3.08     0.4     -84    -0.6   OS-33202    no             1
+GC31-3-100.5 cm      Bolivina spp.       1.255    3.84    0.05    4.07     0.4      14         OS-22947    no             1
+GC31-3-123 cm        mixed benthics       1.48    5.13    0.06    4.79     0.4     -57   -0.53   OS-33203    no             1
+GC31-2-0.5 cm        Bolivina spp.       1.755    5.81    0.04    5.69     0.4     -35         OS-22948    no             1
+GC31-2-50.5 cm       Bolivina spp.       2.255    7.19    0.05    7.31     0.3     -11         OS-22949    no             1
+GC31-2-100.5 cm      Bolivina spp.       2.755    8.98    0.06    9.01     0.3     -27    -0.9   OS-22955    no             1
+GC31-1-8.5 cm        Bolivina spp.       3.255   10.05    0.41   10.79     0.2      56   -1.15   OS-23513    no             1
+PC08-9-45 cm         mixed benthics       3.26   10.46    0.03   10.81     0.2       6           CURL-8750   yes     this study
+PC08-9-60 cm         mixed benthics       3.41  10.845    0.03   11.32     0.2      20           CURL-8752   yes     this study
+GC31-1-32.5 cm       mixed benthics      3.495    11.6    0.07   11.61     0.1     -39   -1.49   OS-25611    no             1
+PC08-9-85 cm         mixed benthics       3.66   13.38   0.035   12.12     0.2    -181           CURL-8751   yes     this study
+GC31-1-58.5 cm       Bolivina spp.       3.755    13.5    0.07   12.41     0.2    -164   -1.49   OS-22956    no             1
+PC08-9-110 cm        mixed benthics       3.91   13.53    0.03   12.88     0.1    -118           CURL-8444   no      this study
+PC08-9-130 cm        mixed benthics       4.11   13.42   0.025   13.57     0.1     -29           CURL-8445   no      this study
+GC31-1-94.5 cm       Bolivina spp.       4.115   13.65    0.15   13.58     0.3     -54   -1.43   OS-22957    no             1
+PC08-9-141 cm        Uvigerina spp.       4.22  14.285   0.035   13.94     0.1     -88           CURL-8746   yes     this study
+PC08-9-150 cm        mixed benthics       4.31   13.37    0.03    14.2     0.2      55           CURL-8446   no      this study
+PC08-8-6.5 cm        Uvigerina spp.      4.375  14.485   0.035   14.37     0.2     -62           CURL-8721   yes     this study
+PC08-8-16.5 cm       Uvigerina spp.      4.475  15.755    0.04   14.65     0.1    -172           CURL-8726   yes     this study
+PC08-8-25.5 cm       Uvigerina spp.      4.565   15.85    0.04   14.96     0.2    -150           CURL-8720   yes     this study
+PC08-8-35 cm         mixed benthics       4.66  16.505    0.04    15.3     0.3    -184           CURL-8447   no      this study
+PC08-8-45.5 cm       Uvigerina spp.      4.765  16.785   0.045   15.67     0.3    -176           CURL-8724   yes     this study
+PC08-8-55.5 cm       Uvigerina spp.      4.865  16.665    0.04   16.02     0.3    -127           CURL-8729   yes     this study
+PC08-8-65.5 cm       Uvigerina spp.      4.965  16.425   0.045   16.37     0.3     -62           CURL-8744   yes     this study
+PC08-8-75.5 cm       Uvigerina spp.      5.065   16.39    0.04   16.73     0.3     -17           CURL-8742   yes     this study
+PC08-8-85.5 cm       Uvigerina spp.      5.165  16.425    0.05   17.08     0.3      22           CURL-8743   yes     this study
+PC08-8-95.5 cm       Uvigerina spp.      5.265  16.185   0.045   17.43     0.3      98           CURL-8749   yes     this study
+PC08-8-105.5 cm      Uvigerina spp.      5.365  16.235    0.04   17.78     0.3     139           CURL-8748   yes     this study
+PC08-8-116 cm        Uvigerina spp.       5.47   16.81    0.04   18.12     0.3     105           CURL-8745   yes     this study
+PC08-8-125 cm        mixed benthics       5.56   16.68    0.04   18.41     0.3     162           CURL-8448   no      this study
+PC08-7-60.5 cm       Uvigerina spp.      6.415   19.72    0.06   21.14     0.2     108           CURL-8728   yes     this study
+PC08-7-80.5 cm       Uvigerina spp.      6.615   19.64    0.06   21.77     0.3     208           CURL-8722   yes     this study
+PC08-7-99.75 cm      mixed benthics      6.808   19.65    0.08   22.39     0.3     299   -0.81   OS-33204    no             1
+PC08-7-132.5 cm      Uvigerina spp.      7.135   21.17    0.07   23.43     0.1     220           CURL-8727   yes     this study
+PC08-6-20.5 cm       Uvigerina spp.      7.585   22.26    0.07   25.15     0.3     311           CURL-8725   yes     this study
+PC08-6-118 cm        mixed benthics       8.56    25.5    0.17      29     0.2     396   -0.57   OS-33205    no             1
+PC08-5-25 cm         mixed benthics       9.01    27.2    0.13   30.73     0.2     394           CURL-8449   no      this study
+PC08-5-95 cm         mixed benthics       9.71   29.23    0.16   33.11     0.2     443           CURL-8450   no      this study
+PC08-5-130 cm        Uvigerina spp.      10.06   30.83    0.17   34.55     0.2     407           CURL-7188   no      this study
+PC08-5-145 cm        Uvigerina spp.      10.21   30.46    0.19   35.11     0.2     577           CURL-7189   no      this study
+PC08-5-145 cm        Bolivina spp.       10.21   31.37    0.18   35.11     0.2     408           CURL-7192   no      this study
+PC08-4-15 cm         mixed benthics      10.41    31.2    0.28   35.89     0.2     582   -0.72   OS-33206    no             1
+PC08-4-15 cm         Uvigerina spp.      10.41   31.75    0.19   35.89     0.2     477           CURL-7187   no      this study
+PC08-4-65 cm         Bolivina spp.       10.91    34.4    0.26   37.92     0.2     356           CURL-7193   no      this study

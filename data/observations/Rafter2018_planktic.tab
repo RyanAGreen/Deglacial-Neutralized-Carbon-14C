@@ -1,0 +1,94 @@
+/* DATA DESCRIPTION:
+Citation:	Rafter, Patrick A (2019): Planktic and benthic foraminifera 14C from the Gulf of California. PANGAEA, https://doi.org/10.1594/PANGAEA.909405
+Abstract:	Planktic and benthic foraminifera 14C measurements, published in Rafter et al. (2019) in GRL. These are a companion dataset to the benthic foraminifera 14C measurements published by Rafter et al. (2018) in Climate of the Past.
+Keyword(s):	14C; AOM; Foraminifera; Globigerina bulloides; Gulf of California; hydrothermal; Pacific; planktic; planktonic; radiocarbon; volcanism
+Related to:	Rafter, Patrick A; Carriquiry, J; Herguera, Juan-Carlos; Hain, Mathis P; Solomon, Evan A; Southon, John R (2019): Anomalous > 2000‐Year‐Old Surface Ocean Radiocarbon Age as Evidence for Deglacial Geologic Carbon Release. Geophysical Research Letters, 46(23), 13950-13960, https://doi.org/10.1029/2019GL085102
+	Rafter, Patrick A; Herguera, Juan-Carlos; Southon, John R (2018): Foraminifera and wood 14C (radiocarbon) in Northeast Pacific for past 30,000 years. PANGAEA, https://doi.org/10.1594/PANGAEA.896312
+Coverage:	LATITUDE: 22.900000 * LONGITUDE: -109.500000
+	MINIMUM DEPTH, sediment/rock: 0.640 m * MAXIMUM DEPTH, sediment/rock: 1.195 m
+Event(s):	LPAZ-21P * LATITUDE: 22.900000 * LONGITUDE: -109.500000 * ELEVATION: -624.0 m * LOCATION: Gulf of California * METHOD/DEVICE: Core (CORE)
+Parameter(s):	Habitat (Habitat) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	Age, dated material (Dated material) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu) * COMMENT: Species
+	Depth, top/min [m] (Depth top) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	Depth, bottom/max [m] (Depth bot) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	DEPTH, sediment/rock [m] (Depth) * GEOCODE * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	Calendar age [ka BP] (Cal age) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	Calendar age, error [±] (Cal age e) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	Age, dated [ka] (Age dated) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu) * COMMENT: C14 age
+	Age, dated standard deviation [±] (Age dated std dev) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	Δ14C [‰] (Δ14C) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	Δ14C, standard deviation [±] (Δ14C std dev) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+	Laboratory code/label (Lab label) * PI: Rafter, Patrick A (https://orcid.org/0000-0002-6352-7593, prafter@uci.edu)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Size:	759 data points
+*/
+Habitat	Dated material	Depth top [m]	Depth bot [m]	Depth [m]	Cal age [ka BP]	Cal age e [±]	Age dated [ka]	Age dated std dev [±]	Δ14C [‰]	Δ14C std dev [±]	Lab label
+planktic	Globigerina bulloides	0.66	0.67	0.665	12.7909	0.3669	15.73	0.27	-336.97901	22.6637790	175264
+planktic	Globigerina bulloides	0.67	0.68	0.675	13.1062	0.2465	15.12	0.04	-256.39839	3.7119684	206072
+planktic	Globigerina bulloides	0.68	0.69	0.685	13.3076	0.3971	14.17	0.05	-142.94072	5.3512519	206074
+planktic	Globigerina bulloides	0.69	0.70	0.700	13.6254	0.5697	15.63	0.08	-257.36936	7.4327484	173601
+planktic	Globigerina bulloides	0.70	0.71	0.710	13.8289	0.6374	15.67	0.16	-242.64259	15.2361549	203503
+planktic	Globigerina bulloides	0.72	0.74	0.730	14.2448	0.7229	15.63	0.09	-199.59072	9.0180368	175268
+planktic	Globigerina bulloides	0.74	0.75	0.750	14.6542	0.7824	15.28	0.10	-121.50021	11.0044892	175270
+planktic	Globigerina bulloides	0.75	0.76	0.755	14.7580	0.7775	17.32	0.04	-309.48230	3.4469800	204763
+planktic	Globigerina bulloides	0.76	0.77	0.765	14.9658	0.7995	18.27	0.05	-371.27555	0.5897853	208914
+planktic	Globigerina bulloides	0.77	0.79	0.780	15.2773	0.8311	16.16	0.05	-150.48810	5.3041281	175793
+planktic	Globigerina bulloides	0.79	0.81	0.800	15.6915	0.8489	16.66	0.10	-161.26141	10.5064223	173603
+planktic	Globigerina bulloides	0.82	0.84	0.830	16.3084	0.8253	17.27	0.13	-162.36343	13.6659586	178778
+planktic	Globigerina bulloides	0.84	0.85	0.850	16.7236	0.7661	15.92	0.11	41.96629	14.3663184	173605
+planktic	Globigerina bulloides	0.85	0.87	0.860	16.9299	0.7327	17.60	0.06	-133.30927	6.4977135	181549
+planktic	Globigerina bulloides	0.87	0.88	0.873	17.1265	0.6353	16.91	0.34	-32.84461	41.8138993	175255
+planktic	Globigerina bulloides	0.88	0.88	0.877	17.2372	0.6149	16.21	0.07	69.43988	10.0315684	201576 & 203057
+planktic	Globigerina bulloides	0.88	0.89	0.885	17.5535	0.5736	17.31	0.10	-31.04737	12.1375427	201578
+planktic	Globigerina bulloides	0.89	0.90	0.895	17.9349	0.6889	16.54	0.05	117.47616	6.9772261	200176
+planktic	Globigerina bulloides	0.90	0.92	0.910	18.4704	0.8579	17.80	0.18	18.54273	23.0806917	175238
+planktic	Globigerina bulloides	0.92	0.93	0.925	19.0088	0.8617	16.52	0.12	274.86722	19.1874075	201587
+planktic	Globigerina bulloides	0.93	0.94	0.935	19.2000	0.8892	16.21	0.10	356.02950	16.9862442	201589
+planktic	Globigerina bulloides	0.94	0.95	0.945	19.5080	0.9023	17.06	0.11	266.17936	17.4577009	175242
+planktic	Globigerina bulloides	0.96	0.97	0.965	22.6498	0.7681	19.66	0.07	339.61228	11.7244641	181552
+planktic	Globigerina bulloides	0.97	0.99	0.980	22.7742	0.6268	19.56	0.56	376.95792	99.4161016	175244
+planktic	Globigerina bulloides	1.00	1.01	1.005	23.2465	0.5455	20.33	0.13	324.65602	21.6116333	200515
+planktic	Globigerina bulloides	1.01	1.02	1.015	23.4360	0.5002	20.21	0.08	375.77012	13.7696354	181555
+planktic	Globigerina bulloides	1.02	1.04	1.030	23.7129	0.4505	20.97	0.19	294.20751	30.9760426	175257
+planktic	Globigerina bulloides	1.04	1.06	1.050	24.3212	0.5809	21.81	0.21	254.71895	33.2335740	176293
+planktic	Globigerina bulloides	1.10	1.11	1.105	25.6536	0.7264	22.78	0.14	306.47232	22.9689131	201591
+planktic	Globigerina bulloides	1.12	1.13	1.125	26.2854	0.8487	24.01	0.07	210.01962	10.5902519	204766
+planktic	Globigerina bulloides	1.14	1.15	1.145	27.2602	1.0623	25.27	0.09	163.80894	13.1123814	204772
+planktic	Globigerina bulloides	1.15	1.16	1.155	27.5970	1.1488	25.39	0.11	194.22818	16.4656598	204775
+planktic	Globigerina bulloides	1.16	1.18	1.170	28.1086	1.2743	25.52	0.32	250.07239	50.8026420	176316
+planktic	Globigerina bulloides	1.19	1.20	1.195	28.9793	1.5039	27.09	0.30	142.34142	43.4684566	177325
+benthic	Planulina ariminensis	0.63	0.65	0.640	12.0860	1.1490	15.62	0.10	-382.77512	7.7316405	162173
+benthic	Planulina ariminensis	0.66	0.67	0.665	12.7909	0.3669	16.88	0.65	-425.41550	48.4260120	178177
+benthic	Planulina ariminensis	0.67	0.68	0.675	13.1062	0.2465	16.55	0.04	-378.43227	3.4917264	206073
+benthic	Planulina ariminensis	0.68	0.69	0.685	13.3076	0.3971	14.33	0.06	-159.84261	6.2987890	206075
+benthic	Planulina ariminensis	0.69	0.70	0.700	13.6254	0.5697	15.12	0.09	-208.69228	8.9154914	175820
+benthic	Planulina ariminensis	0.70	0.71	0.710	13.8289	0.6374	15.38	0.04	-214.31276	4.4136862	203474
+benthic	Planulina ariminensis	0.72	0.74	0.730	14.2448	0.7229	15.80	0.14	-216.83918	13.7686444	206413 & 206414
+benthic	Planulina ariminensis	0.74	0.75	0.750	14.6542	0.7824	15.96	0.04	-193.30761	4.5316850	181567
+benthic	Planulina ariminensis	0.75	0.76	0.755	14.7580	0.7775	15.66	0.04	-151.50283	3.7049908	204764
+benthic	Planulina ariminensis	0.76	0.77	0.765	14.9658	0.7995	15.82	0.07	-147.06359	7.4650124	208915
+benthic	Planulina ariminensis	0.77	0.79	0.780	15.2773	0.8311	16.76	0.07	-212.11856	6.8956427	175789
+benthic	Planulina ariminensis	0.79	0.81	0.800	15.6915	0.8489	16.55	0.04	-149.69713	4.7766717	181535
+benthic	Planulina ariminensis	0.82	0.84	0.830	16.3084	0.8253	17.52	0.08	-188.03057	8.1267378	175800
+benthic	Planulina ariminensis	0.84	0.85	0.850	16.7236	0.7661	16.64	0.14	-47.36237	16.7481933	178190
+benthic	Planulina ariminensis	0.85	0.87	0.860	16.9299	0.7327	17.76	0.06	-150.40110	6.3695734	181548
+benthic	Planulina ariminensis	0.87	0.88	0.873	17.1265	0.6353	17.61	0.05	-114.10698	5.5312822	181536
+benthic	Planulina ariminensis	0.88	0.88	0.877	17.2372	0.6149	17.35	0.07	-72.05199	8.1215239	201575
+benthic	Planulina ariminensis	0.88	0.89	0.885	17.5535	0.5736	17.61	0.06	-66.56645	6.9980946	201577
+benthic	Planulina ariminensis	0.89	0.90	0.895	17.9349	0.6889	18.14	0.06	-84.90566	6.8606028	183754
+benthic	Planulina ariminensis	0.90	0.92	0.910	18.4704	0.8579	18.19	0.07	-29.72605	8.4919661	201579
+benthic	Planulina ariminensis	0.92	0.93	0.925	19.0088	0.8617	16.80	0.07	231.19570	10.7755878	201583
+benthic	Planulina ariminensis	0.93	0.94	0.935	19.2000	0.8892	16.53	0.06	303.07293	9.7693378	201588
+benthic	Planulina ariminensis	0.94	0.95	0.945	19.5080	0.9023	16.96	0.10	282.04010	16.0594192	192493
+benthic	Planulina ariminensis	0.96	0.97	0.965	22.6498	0.7681	20.24	0.07	246.29863	10.9077707	181551
+benthic	Planulina ariminensis	0.97	0.99	0.980	22.7742	0.6268	20.20	0.26	272.03790	42.3902488	178194 & 181540
+benthic	Planulina ariminensis	1.00	1.01	1.005	23.2465	0.5455	20.63	0.12	276.09786	19.2059292	200527
+benthic	Planulina ariminensis	1.01	1.02	1.015	23.4360	0.5002	20.63	0.08	305.68699	13.0681962	181554
+benthic	Planulina ariminensis	1.02	1.04	1.030	23.7129	0.4505	20.69	0.04	340.11410	7.5282412	20690
+benthic	Planulina ariminensis	1.04	1.06	1.050	24.3212	0.5809	21.52	0.08	300.84322	13.0197164	176294
+benthic	Planulina ariminensis	1.10	1.11	1.105	25.6536	0.7264	22.66	0.09	326.13540	14.9412783	201590
+benthic	Planulina ariminensis	1.12	1.13	1.125	26.2854	0.8487	24.00	0.09	211.52687	13.6500089	204767
+benthic	Planulina ariminensis	1.14	1.15	1.145	27.2602	1.0623	25.49	0.08	132.36817	11.3335044	204773
+benthic	Planulina ariminensis	1.15	1.16	1.155	27.5970	1.1488	25.59	0.10	164.86221	14.5915956	204776
+benthic	Planulina ariminensis	1.16	1.18	1.170	28.1086	1.2743	26.54	0.41	101.00703	57.6535956	176296
+benthic	Planulina ariminensis	1.19	1.20	1.195	28.9793	1.5039	27.41	0.78	97.72994	111.9354949	177324
