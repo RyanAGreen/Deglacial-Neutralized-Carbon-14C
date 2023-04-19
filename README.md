@@ -1,8 +1,7 @@
 # Deglacial-Neutralized-Carbon-14C
+
 This repository contains the plotting code and the simulation results for the four experimental runs used in our "Deglacial Pulse of Neutralized Carbon from the Pacific Seafloor: Constraints from the Radiocarbon Budget" manuscript, submitted to GRL.
 
-There are two folders, "data" and "code". The "data" folder contains observational data (in the subfolder "observations") needed for Figures 1 and 3 and model data (in the subfolder "model") need for Figure 1, 2, and 3. The model data comes as a .txt file with XY columns and XY rows. The columns are:
+There are three folders: "data", "code", and "figures". The "data" folder contains observational data (in the subfolder "observations") and model data (in the subfolder "model") need for Figures 1, 2, and 3. All data is available as .txt files. Within the "code" folder, there are the three Python scripts, one for each figure. Once you have cloned this repository, the scripts _must_ be called from the root of the "Deglacial-Neutralized-Carbon-14C" directory. You can do so by typing "python code/FigureFile.py". For example, to run the script for Figure 1, I would type "python code/Figure1.py" when I am in the "Deglacial-Neutralized-Carbon-14C" directory, _not_ the code directory. The figures will be saved as pdf files in the "figures" file. You will need to have python and some additional packages installed. The packages that are needed can be seen at the top of each script. The figures produced with these scripts are the same figures included in the manuscript, however we used minor "beautifying" with Adobe Illustrator before adding them to the manuscript.  
 
- Within the "code" folder, there are the three Python scripts for each figure. 
- This code should be ran from the root of the directory by typying "python code/Figure1.py" for example.
-
+Please email me know if you have any questions, comments or concerns. rygreen[at]ucsc[dot]edu
