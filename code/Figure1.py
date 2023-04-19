@@ -413,6 +413,6 @@ axs[1].legend(
 
 
 plt.savefig("figures/Figure1.pdf", bbox_inches="tight")
-print("The plotting for Figure 2 is complete!")
+print("The plotting for Figure 1 is complete!")
 # plt.show()
 
